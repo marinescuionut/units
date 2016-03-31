@@ -1,0 +1,12 @@
+{
+  "name": "marinescuionut/units",
+  "description": "Testing units",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marinescu Ionut",
+      "email": "marinescuionut@gmail.com"
+    }
+  ]
+}
